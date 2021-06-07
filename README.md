@@ -1,2 +1,2 @@
-# cost-orloss-functions-
+# cost-or loss-functions-
 diffrent type of loss functions
